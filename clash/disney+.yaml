@@ -1,0 +1,15 @@
+payload:
+  # DisneyPlus
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-KEYWORD,dssott
+
+
+# - DOMAIN,cdn.registerdisney.go.com,Proxy
+# - DOMAIN-SUFFIX,dssott-cds.s.llnwi.net,Proxy
+# - DOMAIN-SUFFIX,alphacdn.net,Proxy
+# - DOMAIN-SUFFIX,dss.map.fastly.net,Proxy
