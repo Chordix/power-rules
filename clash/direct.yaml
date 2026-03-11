@@ -1,0 +1,124 @@
+payload:
+  # Bilibili
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-SUFFIX,acg.tv
+  - DOMAIN-SUFFIX,acgvideo.com
+  - DOMAIN-SUFFIX,b23.tv
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,biligame.com
+  - DOMAIN-SUFFIX,biligame.net
+  - DOMAIN-SUFFIX,im9.com
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,hdslb.com
+
+  # IQIYI
+  - DOMAIN-KEYWORD,qiyi
+  - DOMAIN-SUFFIX,qy.net
+  - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,iqiyipic.com
+  - DOMAIN-SUFFIX,71.am.com
+
+  # letv
+  - DOMAIN-SUFFIX,api.mob.app.letv.com
+
+  # NetEase & NeteaseMusic
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,126.net
+  - DOMAIN-SUFFIX,163yun.com
+  - DOMAIN-SUFFIX,music.126.net
+  - DOMAIN-SUFFIX,music.163.com
+
+  # Tencent
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,tencent.com
+
+  # Tencent Video
+  - DOMAIN-SUFFIX,vv.video.qq.com
+
+  # Blizzard (暴雪)
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN,blzddist1-a.akamaihd.net
+
+  # Steam
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-KEYWORD,steamcdn
+  - DOMAIN-KEYWORD,steamstore
+  - DOMAIN-KEYWORD,steamuserimages
+  - DOMAIN-KEYWORD,steambroadcast
+  - DOMAIN,media.steampowered.com
+  - DOMAIN,store.steampowered.com
+
+  # Alibaba
+  - DOMAIN-SUFFIX,alibaba.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,amap.com
+  - DOMAIN-SUFFIX,dingtalk.com
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,tmall.com
+  - DOMAIN-SUFFIX,ykimg.com
+  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,xiami.com
+  - DOMAIN-SUFFIX,xiami.net
+
+  # Sohu
+  - DOMAIN-SUFFIX,sohu.com.cn
+  - DOMAIN-SUFFIX,itc.cn
+  - DOMAIN-SUFFIX,sohu.com
+  - DOMAIN-SUFFIX,v-56.com
+
+  # Sina
+  - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,weibo.cn
+
+  # JD
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,jd.hk
+  - DOMAIN-SUFFIX,360buyimg.com
+
+  # MI
+  - DOMAIN-SUFFIX,duokan.com
+  - DOMAIN-SUFFIX,mi-img.com
+  - DOMAIN-SUFFIX,mifile.cn
+  - DOMAIN-SUFFIX,xiaomi.com
+
+  # HunanTV
+  - DOMAIN-SUFFIX,hitv.com
+  - DOMAIN-SUFFIX,mgtv.com
+
+  # Baidu
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,baidubcr.com
+  - DOMAIN-SUFFIX,bdstatic.com
+
+  # ChinaNet
+  - DOMAIN-SUFFIX,189.cn
+  - DOMAIN-SUFFIX,21cn.com
+
+  # ByteDance
+  - DOMAIN-SUFFIX,bytecdn.cn
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,toutiao.com
+
+  # Others
+  - DOMAIN-SUFFIX,douyu.com
+  - DOMAIN-SUFFIX,douyucdn.cn
+  - DOMAIN-SUFFIX,zhihu.com
+
+  # Local Area Network
+  - DOMAIN-KEYWORD,announce
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-SUFFIX,smtp
+  - DOMAIN-SUFFIX,local
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,100.64.0.0/10
+
+
