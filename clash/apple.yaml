@@ -1,0 +1,23 @@
+payload:
+  # Apple
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,appsto.re
+  # TestFlight
+  - DOMAIN,beta.itunes.apple.com
+  # iBooks Store download
+  - DOMAIN,books.itunes.apple.com
+  # iTunes Store Moveis Trailers
+  - DOMAIN,hls.itunes.apple.com
+  # App Store Preview
+  - DOMAIN,itunes.apple.com
+  # Spotlight
+  - DOMAIN,api-glb-sea.smoot.apple.com
+  # Dictionary
+  - DOMAIN,lookup-api.apple.com
+  - DOMAIN,cdn-apple.com
+  - DOMAIN,apple-cloudkit.com
+  # - DOMAIN,gsas.apple.com
+  # - DOMAIN,xp.apple.com
+  # - DOMAIN,gsa.apple.com
+  - DOMAIN,p38-imap.mail.me.com
