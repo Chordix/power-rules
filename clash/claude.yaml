@@ -18,5 +18,6 @@ payload:
   - DOMAIN-SUFFIX,intercomcdn.com
   # CDN
   - DOMAIN-SUFFIX,cdn.claude.ai
+  - DOMAIN-SUFFIX,js.stripe.com
   # AWS资源（部分附件上传）
   - DOMAIN-SUFFIX,amazonaws.com
