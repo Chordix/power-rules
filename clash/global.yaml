@@ -161,3 +161,7 @@ payload:
   # ChatGPT
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,openai.com
+
+  # Debian
+  - DOMAIN-SUFFIX,debian.org
+  
