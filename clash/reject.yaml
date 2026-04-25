@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-KEYWORD,datadoghq
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,googletagmanager.com
   # Claude 客服系统
   - DOMAIN-SUFFIX,intercom.io
