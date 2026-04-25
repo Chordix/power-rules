@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN,in.appcenter.ms
