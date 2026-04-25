@@ -1,4 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,sentry.io
+  # Claude 统计 / 风控
+  - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-KEYWORD,datadoghq
   - DOMAIN-SUFFIX,googletagmanager.com
+  # Claude 客服系统
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+
+  # ClashX 更新通道
   - DOMAIN,in.appcenter.ms
