@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-KEYWORD,datadoghq
   # 客服系统
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
