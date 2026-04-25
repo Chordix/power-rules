@@ -9,14 +9,6 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   # Claude 资源
   - DOMAIN-SUFFIX,claudeusercontent.com
-  # 统计 / 风控
-  - DOMAIN-SUFFIX,statsigapi.net
-  - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,segment.com
-  - DOMAIN-KEYWORD,datadoghq
-  # 客服系统
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,intercomcdn.com
   # CDN
   - DOMAIN-SUFFIX,cdn.claude.ai
   - DOMAIN-SUFFIX,js.stripe.com
