@@ -109,6 +109,9 @@ payload:
   - DOMAIN-SUFFIX,douyucdn.cn
   - DOMAIN-SUFFIX,zhihu.com
 
+  # MiniMax
+  - DOMAIN-SUFFIX,minimaxi.com
+
   # Local Area Network
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
