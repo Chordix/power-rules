@@ -164,4 +164,7 @@ payload:
 
   # Debian
   - DOMAIN-SUFFIX,debian.org
+
+  # Xiaomi mimo SGP area
+  - DOMAIN,token-plan-sgp.xiaomimimo.com
   
