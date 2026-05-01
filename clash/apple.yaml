@@ -15,8 +15,8 @@ payload:
   - DOMAIN,api-glb-sea.smoot.apple.com
   # Dictionary
   - DOMAIN,lookup-api.apple.com
-  - DOMAIN,cdn-apple.com
-  - DOMAIN,apple-cloudkit.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
   # - DOMAIN,gsas.apple.com
   # - DOMAIN,xp.apple.com
   # - DOMAIN,gsa.apple.com
