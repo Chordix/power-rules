@@ -12,3 +12,6 @@ payload:
 
   # ClashX 更新通道
   - DOMAIN,in.appcenter.ms
+
+  # CADReader
+  - DOMAIN-SUFFIX,kuaicad.com
